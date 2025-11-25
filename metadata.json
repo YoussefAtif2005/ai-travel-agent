@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Atlas Voyager",
+  "description": "An AI-powered Moroccan travel assistant that generates personalized itineraries and narrates them using advanced text-to-speech.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
